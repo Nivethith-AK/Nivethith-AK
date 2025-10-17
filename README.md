@@ -30,7 +30,7 @@ I'm a creative web developer from Sri Lanka 🇱🇰 who loves crafting beautifu
 ## 📫 Connect With Me
 - 🌐 [Website](https://yourportfolio.com)
 - 📧 Email: niknive7@gmail.com
-- 💼 [LinkedIn]([https://linkedin.com/in/nive](https://www.linkedin.com/in/nivethith-arasakumar-552b21269/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/nivethith-arasakumar-552b21269/)
 
 ---
 
