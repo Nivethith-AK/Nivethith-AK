@@ -22,10 +22,6 @@ I'm a creative web developer from Sri Lanka 🇱🇰 who loves crafting beautifu
 ## 🔥 Streaks
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NiveDev&theme=tokyonight)
 
-## 📌 Featured Projects
-- [Static Application](https://github.com/Nivethith-AK/studinity-study-planner) — Website for a study planner app
-- [Responsive Landing Page](https://github.com/NiveDev/landing-page) — A sleek, mobile-friendly design
-- [CSS Animation Playground](https://github.com/NiveDev/css-animations) — Fun with transitions and effects
 
 ## 📫 Connect With Me
 - 🌐 [Website](https://yourportfolio.com)
