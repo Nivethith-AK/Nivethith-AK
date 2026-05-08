@@ -51,11 +51,11 @@ I turn ideas into interactive products with clean code and strong UI thinking.
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=NiveDev&show_icons=true&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Nivethith-AK&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=NiveDev&theme=tokyonight&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nivethith-AK&theme=tokyonight&hide_border=true)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NiveDev&layout=compact&theme=tokyonight&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nivethith-AK&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
