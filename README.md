@@ -33,23 +33,6 @@ Every project is built with the goal of turning ideas into **real, scalable digi
 
 ---
 
-## 📊 Real-Time Contributions  
-
-<div align="center">
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Nivethith-AK&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Nivethith-AK&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-<!-- Contribution Snake (requires workflow setup) -->
-<img src="https://raw.githubusercontent.com/Nivethith-AK/Nivethith-AK/output/snake.svg" alt="Contribution Snake Animation" />
-
-</div>
-
----
-
 ## 🧭 Current Direction  
 
 - 🚀 Advanced React architecture patterns  
