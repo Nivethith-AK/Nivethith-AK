@@ -15,9 +15,6 @@ I'm a creative web developer from Sri Lanka 🇱🇰 who loves crafting beautifu
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
-## 📈 GitHub Stats
-![Nive's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NiveDev&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NiveDev&layout=compact&theme=tokyonight)
 
 ## 🔥 Streaks
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NiveDev&theme=tokyonight)
