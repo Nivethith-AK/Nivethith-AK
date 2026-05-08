@@ -87,7 +87,7 @@ I turn ideas into interactive products with clean code and strong UI thinking.
 [🌐 Portfolio](https://yourportfolio.com) • 
 [💼 LinkedIn](https://www.linkedin.com/in/nivethith-arasakumar-552b21269/) • 
 [📧 Email](mailto:niknive7@gmail.com) • 
-[🐙 GitHub](https://github.com/NiveDev)
+[🐙 GitHub](https://github.com/Nivethith-AK)
 
 </div>
 
