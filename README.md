@@ -33,12 +33,9 @@ Every project is built with the goal of turning ideas into **real, scalable digi
 
 <div align="center">
 
-### Core  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-
-### Frameworks & Tools  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
@@ -49,19 +46,17 @@ Every project is built with the goal of turning ideas into **real, scalable digi
 
 ---
 
-## 📊 GitHub Intelligence Dashboard  
+## 📊 GitHub Dashboard  
 
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Nivethith-AK&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />  
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nivethith-AK&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />  
+<img src="https://github-readme-stats.vercel.app/api?username=Nivethith-AK&show_icons=true&theme=radical&hide_border=true&count_private=true" />  
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nivethith-AK&theme=tokyonight&hide_border=true" />  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nivethith-AK&theme=radical&hide_border=true" />  
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivethith-AK&layout=donut&theme=tokyonight&hide_border=true" />  
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nivethith-AK&theme=tokyo-night&hide_border=true&area=true" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivethith-AK&layout=compact&theme=radical&hide_border=true" />  
 
 </div>
 
@@ -106,6 +101,6 @@ Every project is built with the goal of turning ideas into **real, scalable digi
 
 <div align="center">
 
-🔥 Let’s build something meaningful. 🚀  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer" />
 
 </div>
