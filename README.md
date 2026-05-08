@@ -51,11 +51,29 @@ I turn ideas into interactive products with clean code and strong UI thinking.
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Nivethith-AK&show_icons=true&theme=tokyonight&hide_border=true)
+<!-- Real-Time Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=Nivethith-AK&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nivethith-AK&theme=tokyonight&hide_border=true)
+<!-- Followers -->
+<img src="https://img.shields.io/github/followers/Nivethith-AK?label=Followers&style=for-the-badge&color=blue" />
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nivethith-AK&layout=compact&theme=tokyonight&hide_border=true)
+<!-- Stars -->
+<img src="https://img.shields.io/github/stars/Nivethith-AK?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow" />
+
+<!-- GitHub Stats -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nivethith-AK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+<!-- GitHub Streak -->
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nivethith-AK&theme=tokyonight&hide_border=true" />
+
+<!-- Top Languages -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivethith-AK&layout=compact&theme=tokyonight&hide_border=true" />
+
+<!-- Activity Graph -->
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nivethith-AK&theme=tokyo-night&hide_border=true" />
+
+<!-- Trophies -->
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=Nivethith-AK&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
 
