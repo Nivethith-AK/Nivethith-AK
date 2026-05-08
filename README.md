@@ -33,18 +33,18 @@ Every project is built with the goal of turning ideas into **real, scalable digi
 
 ---
 
-## 📊 Real-Time Contribution Counter  
+## 📊 Real-Time Contributions  
 
 <div align="center">
 
-<!-- Real-time Contributions -->
-<img src="https://github-readme-stats.vercel.app/api?username=Nivethith-AK&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Nivethith-AK&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-<!-- Real-time Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nivethith-AK&theme=radical&hide_border=true" alt="GitHub Streak" />
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Nivethith-AK&theme=radical&hide_border=true" alt="GitHub Streak" />
 
-<!-- Real-time Contributions Snake Animation -->
-<img src="https://github.com/Nivethith-AK/Nivethith-AK/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+<!-- Contribution Snake (requires GitHub Action setup) -->
+<img src="https://raw.githubusercontent.com/Nivethith-AK/Nivethith-AK/output/snake.svg" alt="Contribution Snake Animation" />
 
 </div>
 
