@@ -29,39 +29,6 @@ Every project is built with the goal of turning ideas into **real, scalable digi
 
 ---
 
-## 🛠️ Tech Stack  
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-
-</div>
-
----
-
-## 📊 GitHub Dashboard  
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Nivethith-AK&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />  
-
-<img src="https://github-readme-stats.vercel.app/api?username=Nivethith-AK&show_icons=true&theme=radical&hide_border=true&count_private=true" />  
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nivethith-AK&theme=radical&hide_border=true" />  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivethith-AK&layout=compact&theme=radical&hide_border=true" />  
-
-</div>
-
----
-
 ## 🧭 Current Direction  
 
 - 🚀 Advanced React architecture patterns  
