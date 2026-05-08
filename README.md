@@ -1,76 +1,73 @@
 <div align="center">
 
-# ⚡ N I V E
+# ⚡ N I V E  
 
-### Frontend Engineer • UI Architect • Data-Driven Builder 🇱🇰
+### 🚀 Frontend Engineer • 🎨 UI Architect • 📊 Data-Driven Builder 🇱🇰  
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Crafting+Fast+%26+Clean+Interfaces;Designing+Scalable+UI+Systems;Turning+Ideas+Into+Digital+Experiences" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🚀 Crafting Interfaces That Feel Fast, Clean & Intentional
+## 🚀 Crafting Interfaces That Feel Fast, Clean & Intentional  
 
 I build modern web applications with a focus on **performance, usability, and design precision**.  
-Every project is built with the goal of turning ideas into **real, scalable digital experiences**.
+Every project is built with the goal of turning ideas into **real, scalable digital experiences**.  
 
-> “Simplicity is not minimalism — it’s clarity executed well.”
+> 💡 *“Simplicity is not minimalism — it’s clarity executed well.”*  
 
 ---
 
-## 🧠 What I Focus On
+## 🧠 What I Focus On  
 
-- ⚡ Building high-performance frontend systems  
-- 🎨 Designing scalable UI/UX architectures  
+- ⚡ High-performance frontend systems  
+- 🎨 Scalable UI/UX architectures  
 - 🧩 Translating ideas into functional products  
 - 🚀 Optimizing web performance & responsiveness  
-- 🔍 Improving code quality and frontend structure  
+- 🔍 Improving code quality & structure  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
 <div align="center">
 
-### Core
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Core  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
-### Frameworks & Tools
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### Frameworks & Tools  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 </div>
 
 ---
 
-## 📊 GitHub Intelligence Dashboard
+## 📊 GitHub Intelligence Dashboard  
 
 <div align="center">
 
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=Nivethith-AK&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Nivethith-AK&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />  
 
-<!-- Stats -->
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nivethith-AK&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nivethith-AK&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />  
 
-<!-- Streak -->
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nivethith-AK&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nivethith-AK&theme=tokyonight&hide_border=true" />  
 
-<!-- Languages -->
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivethith-AK&layout=donut&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivethith-AK&layout=donut&theme=tokyonight&hide_border=true" />  
 
-<!-- Activity Graph -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nivethith-AK&theme=tokyo-night&hide_border=true&area=true" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nivethith-AK&theme=tokyo-night&hide_border=true&area=true" />  
 
 </div>
 
 ---
 
-## 🧭 Current Direction
+## 🧭 Current Direction  
 
 - 🚀 Advanced React architecture patterns  
 - ⚙️ Frontend performance optimization  
@@ -79,7 +76,7 @@ Every project is built with the goal of turning ideas into **real, scalable digi
 
 ---
 
-## 🏆 Selected Work
+## 🏆 Selected Work  
 
 - 🌐 Personal Portfolio System — branding + UI showcase  
 - 📱 Responsive UI Components Library  
@@ -87,28 +84,28 @@ Every project is built with the goal of turning ideas into **real, scalable digi
 
 ---
 
-## 🌍 Connect
+## 🌍 Connect  
 
 <div align="center">
 
-[🌐 Portfolio](https://yourportfolio.com) • 
-[💼 LinkedIn](https://www.linkedin.com/in/nivethith-arasakumar-552b21269/) • 
-[📧 Email](mailto:niknive7@gmail.com) • 
-[🐙 GitHub](https://github.com/Nivethith-AK)
+[🌐 Portfolio](https://yourportfolio.com) •  
+[💼 LinkedIn](https://www.linkedin.com/in/nivethith-arasakumar-552b21269/) •  
+[📧 Email](mailto:niknive7@gmail.com) •  
+[🐙 GitHub](https://github.com/Nivethith-AK)  
 
 </div>
 
 ---
 
-## ⚡ Final Thought
+## ⚡ Final Thought  
 
-> Build systems, not just pages.  
-> Think architecture, not just UI.
+> 🏗️ Build systems, not just pages.  
+> 🧩 Think architecture, not just UI.  
 
 ---
 
 <div align="center">
 
-🔥 Let’s build something meaningful.
+🔥 Let’s build something meaningful. 🚀  
 
 </div>
