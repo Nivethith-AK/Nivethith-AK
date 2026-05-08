@@ -43,7 +43,7 @@ Every project is built with the goal of turning ideas into **real, scalable digi
 <!-- GitHub Streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Nivethith-AK&theme=radical&hide_border=true" alt="GitHub Streak" />
 
-<!-- Contribution Snake (requires GitHub Action setup) -->
+<!-- Contribution Snake (requires workflow setup) -->
 <img src="https://raw.githubusercontent.com/Nivethith-AK/Nivethith-AK/output/snake.svg" alt="Contribution Snake Animation" />
 
 </div>
