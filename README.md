@@ -54,9 +54,9 @@ Every project is built with the goal of turning ideas into **real, scalable digi
 
 <div align="Left">
 
-[🌐 Portfolio](https://yourportfolio.com) •  
-[💼 LinkedIn](https://www.linkedin.com/in/nivethith-arasakumar-552b21269/) •  
-[📧 Email](mailto:niknive7@gmail.com) •  
+[🌐 Portfolio](https://yourportfolio.com)   
+[💼 LinkedIn](https://www.linkedin.com/in/nivethith-arasakumar-552b21269/)   
+[📧 Email](mailto:niknive7@gmail.com)   
 [🐙 GitHub](https://github.com/Nivethith-AK)  
 
 </div>
