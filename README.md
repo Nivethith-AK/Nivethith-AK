@@ -2,7 +2,7 @@
 
 # ⚡ N I V E
 
-### Frontend Developer • UI Architect • Problem Solver 🇱🇰
+### Frontend Developer • UI Architect • Data Scientist 🇱🇰
 
 </div>
 
