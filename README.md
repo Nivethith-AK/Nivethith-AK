@@ -52,7 +52,7 @@ Every project is built with the goal of turning ideas into **real, scalable digi
 
 ## 🌍 Connect  
 
-<div align="center">
+<div align="Left">
 
 [🌐 Portfolio](https://yourportfolio.com) •  
 [💼 LinkedIn](https://www.linkedin.com/in/nivethith-arasakumar-552b21269/) •  
