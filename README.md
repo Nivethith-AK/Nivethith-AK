@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ N I V E  
+# ⚡ N I V E T H I T H  
 
 ### 🚀 Frontend Engineer • 🎨 UI Architect • 📊 Data-Driven Builder 🇱🇰  
 
