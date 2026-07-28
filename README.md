@@ -1,78 +1,101 @@
+<!-- Profile Trophies -->
 <div align="center">
-
-# ⚡ N I V E T H I T H  
-
-### 🚀 Frontend Engineer • 🎨 UI Architect • 📊 Data-Driven Builder 🇱🇰  
-
-<!-- Animated Typing Banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Crafting+Fast+%26+Clean+Interfaces;Designing+Scalable+UI+Systems;Turning+Ideas+Into+Digital+Experiences" alt="Typing SVG" />
-
-<!-- Gradient Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header&animation=fadeIn" />
-
+    <a href="https://github.com/CarterPerez-dev/github-profile-trophy">
+        <img src="https://github-profile-trophy-phi-jet.vercel.app/?username=CarterPerez-dev&theme=darkhub&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
+    </a>
 </div>
 
----
-
-## 🚀 Crafting Interfaces That Feel Fast, Clean & Intentional  
-
-I build modern web applications with a focus on **performance, usability, and design precision**.  
-Every project is built with the goal of turning ideas into **real, scalable digital experiences**.  
-
-> 💡 *“Simplicity is not minimalism — it’s clarity executed well.”*  
-
----
-
-## 🧠 What I Focus On  
-
+<!-- LOC Stats SVG -->
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=⚡+High-performance+frontend+systems;🎨+Scalable+UI%2FUX+architectures;🚀+Optimizing+web+performance;🔍+Improving+code+quality+%26+structure" alt="Focus Typing SVG" />
-
+<!-- LOC-STATS:START -->
+<img src="./loc-stats.svg" alt="LOC Stats" width="84%" />
+<!-- LOC-STATS:END -->
 </div>
 
----
+<!-- Github Stats -->
+<p align="center">
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="5%"> <strong>Github Stats</strong>
+</p>
 
-## 🧭 Current Direction  
+<p align="center">
+<table align="center">
+<tr>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats-eight-sand-93.vercel.app/api?username=CarterPerez-dev&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=highcontrast&hide_border=true&border_radius=5" />
+</td>
+<td width="50%" align="center">
+    <img src="https://github-readme-streak-stats-ten-blush.vercel.app?user=CarterPerez-dev&theme=highcontrast&hide_border=true&border_radius=5&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
+</td>
+</tr>
+</table>
+</p>
 
-- 🚀 Advanced React architecture patterns  
-- ⚙️ Frontend performance optimization  
-- 🧠 UI system design thinking  
-- 🎯 Building production-ready applications  
+<br>
 
----
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=3000&pause=200&color=b30000&width=435&lines=+Carter+Perez;Dev" alt="Developer"/>
+</a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 Selected Work  
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">  **Skills**
 
-- 🌐 Personal Portfolio System — branding + UI showcase  
-- 📱 Responsive UI Components Library  
-- ⚙️ JavaScript Logic & DOM Projects Collection  
 
----
+[![My Skills](https://skillicons.dev/icons?i=flask,fastapi,react,ts,scss,rust,py,c,go,postgres,redis,github,docker,nginx,aws)](https://skillicons.dev)
 
-## 🌍 Connect  
+### Development Environments:
+![Vim](https://img.shields.io/badge/Vim-b30000.svg?style=for-the-badge&logo=intellij-idea&logoColor=red) 
+![Kali](https://img.shields.io/badge/Debian-b30000.svg?style=for-the-badge&logo=intellij-idea&logoColor=red)
+![Github](https://img.shields.io/badge/Git-b30000.svg?style=for-the-badge&logo=intellij-idea&logoColor=red)
 
-<div align="Left">
-
-[🌐 Portfolio](https://yourportfolio.com)   
-[💼 LinkedIn](https://www.linkedin.com/in/nivethith-arasakumar-552b21269/)   
-[📧 Email](mailto:niknive7@gmail.com)   
-[🐙 GitHub](https://github.com/Nivethith-AK)  
-
-</div>
-
----
-
-## ⚡ Final Thought  
-
-> 🏗️ Build systems, not just pages.  
-> 🧩 Think architecture, not just UI.  
-
----
-
+<!-- Social Links -->
 <div align="center">
-
-<!-- Animated Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer&animation=twinkling" />
-
+  <a href="mailto:carterperez@certgames.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
+  <a href="https://www.linkedin.com/in/carterperez-dev/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
+ <!-- <a href="https://aal1x-jobhub.github.io/jobhub-landing/"><img src="https://img.shields.io/badge/Website-%23.svg?&style=for-the-badge&logo=www&logoColor=white&color=black" /></a> -->
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35> ***About me***
+
+I am currently building really cool shit, like whatever I want really. I also solo developed [CertGames](https://certgames.com) — go check it out *right now*.
+
+- 🧙‍♂️ I’m currently learning ...
+  - *Zig*
+  - *Cuda*
+- 👻 Reach out to me at: <a href="nivethith.16@gmail.com">Nivethith.16@gmail.com</a>
+- 🧝‍♀️ [Studio](nivethith.vercel.app)
+<br>
+
+<table>
+<tr>
+<td width="200px">
+<img width="200px" alt="Skull" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
+</td>
+<td>
+<img width="600px" alt="Snake" src="./dist/ocean.gif"/>
+</td>
+</tr>
+</table>
+
+```ruby
+⠀⠀⠀⠀⠀⠴⣦⣤⡀⢄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⣨⣥⣄⣀⠀⡁⠀⠀⡀⡠⠀⠀⠀⠂⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢠⣾⣿⣷⣮⣷⡦⠥⠈⡶⠮⣤⣀⡠⠀⡀⣐⣀⡈⠁⠀⠐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣾⣿⣿⣿⣿⠟⠀⠠⠊⠉⠀⠀⢀⠉⠙⠚⠧⣦⣀⡀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⡏⠀⠀⠀⠀⠀⠠⠀⠁⠀⢤⠀⠀⠀⠨⡉⠛⠶⠤⣄⣄⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢀⣿⣿⣿⣿⡀⠀⠀⢰⠀⠍⡾⠆⠀⠀⣠⡦⠄⡀⠄⠀⠠⠀⠀⠀⠈⠙⠓⠦⢤⣀⡀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠸⣿⣿⣿⣿⣿⣶⣦⢠⡈⠀⠀⠀⠀⠀⠋⠛⠉⡂⠈⠙⠀⣰⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠺⠦⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠻⢿⣿⣿⣿⣿⣿⣾⣿⣿⣦⢤⡀⢀⣂⣨⠀⢅⢱⡔⠒⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠙⠲⠴⣠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠻⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣎⠘⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠑⠠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣶⣾⣽⡿⢿⣿⣿⣿⣿⣿⣿⣿⣿⠳⢄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⠏⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠁⠀⠹⣦⣴⠖⠲⠆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠘⢿⠀⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏⠀⠀⠈⠀⠀⠀⠒⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢩⠢⣙⠿⣿⣿⣿⣿⣿⣿⡿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣆⠈⠛⢶⣌⡉⣻⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣷⣄⣤⣙⣿⣿⣿⣷⣄⣀⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠟⠛⠟⠠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣿⡿⣿⣿⣿⣿⣿⣿⡿⠋⠉⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠙⠁⠘⢮⣛⡽⠛⠿⡿⠥⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+```
+
