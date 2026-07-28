@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:38BDF8&height=220&section=header&text=Nivethith%20Arasakumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20Design-Driven%20Engineering&descAlignY=56&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:38BDF8&height=230&section=header&text=Nivethith%20Arasakumar&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=AI%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20Design-Driven%20Engineering&descAlignY=56&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=650&height=45&lines=CS+Undergrad+%40+University+of+Westminster;Building+AI-powered+products+end+to+end;React+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+Cloud+AI;Design+thinking+meets+shipped+software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=CS+Undergrad+%40+University+of+Westminster;Building+AI-powered+products+end+to+end;React+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+Cloud+AI;Design+thinking+meets+shipped+software" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -14,11 +14,11 @@
 <a href="https://github.com/Nivethith-AK?tab=followers"><img src="https://img.shields.io/github/followers/Nivethith-AK?style=for-the-badge&color=38BDF8&labelColor=0F2027&logo=github" alt="Followers"/></a>
 <img src="https://komarev.com/ghpvc/?username=Nivethith-AK&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Profile views"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:38BDF8,100:0F2027&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:38BDF8,100:0F2027&height=6&section=header" width="100%"/>
 
 </div>
 
-## <img src="https://media.githubusercontent.com/media/github/explore/main/topics/terminal/terminal.png" width="24"/> &nbsp;whoami
+## &nbsp;whoami
 
 ```ts
 const nivethith = {
@@ -36,6 +36,8 @@ const nivethith = {
 <tr>
 <td valign="top" width="55%">
 
+<br/>
+
 - 🔭 &nbsp;Currently building **AI-assisted web products** — Figma wireframe to deployed app
 - 🌱 &nbsp;Levelling up in **applied ML**, model deployment, clean architecture
 - 🎨 &nbsp;**UI/UX-first background** — I build for humans, not just for the demo
@@ -46,24 +48,27 @@ const nivethith = {
 </td>
 <td valign="top" width="45%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivethith-AK&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12&title_color=38BDF8&bg_color=0D1117" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivethith-AK&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" width="100%" alt="Top languages"/>
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:38BDF8,100:0F2027&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:38BDF8,100:0F2027&height=6&section=header" width="100%"/>
 </div>
 
 ## 🛠️ &nbsp;Tech Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,react,nodejs,firebase,postgres,tailwind,figma,git,github,vscode,vercel,azure&perline=7" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,react,nodejs,firebase,postgres,tailwind,figma,git,github,vscode,vercel,azure&perline=7" alt="Tech stack"/>
+
+</div>
 
 <details>
 <summary><b>📦 &nbsp;Full breakdown — click to expand</b></summary>
+
 <br/>
 
 **Languages**
@@ -96,8 +101,8 @@ const nivethith = {
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:38BDF8,100:0F2027&height=3&section=header" width="100%"/>
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:38BDF8,100:0F2027&height=6&section=header" width="100%"/>
 </div>
 
 ## 🚀 &nbsp;Featured Projects
@@ -105,16 +110,16 @@ const nivethith = {
 <div align="center">
 
 <a href="https://github.com/Nivethith-AK/NIVI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nivethith-AK&repo=NIVI&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=38BDF8" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nivethith-AK&repo=NIVI&theme=tokyonight&hide_border=true&border_radius=12" width="49%" alt="NIVI"/>
 </a>
 <a href="https://github.com/Nivethith-AK/novastack">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nivethith-AK&repo=novastack&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=38BDF8" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nivethith-AK&repo=novastack&theme=tokyonight&hide_border=true&border_radius=12" width="49%" alt="NovaStack"/>
 </a>
 <a href="https://github.com/Nivethith-AK/CVForge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nivethith-AK&repo=CVForge&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=38BDF8" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nivethith-AK&repo=CVForge&theme=tokyonight&hide_border=true&border_radius=12" width="49%" alt="CVForge"/>
 </a>
 <a href="https://github.com/Nivethith-AK/Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nivethith-AK&repo=Portfolio&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=38BDF8" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nivethith-AK&repo=Portfolio&theme=tokyonight&hide_border=true&border_radius=12" width="49%" alt="Portfolio"/>
 </a>
 
 </div>
@@ -130,25 +135,31 @@ const nivethith = {
 | **[Portfolio](https://github.com/Nivethith-AK/Portfolio)** | 3D interactive portfolio with immersive UI/UX and a dynamic content backend | `TypeScript` `Three.js` |
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:38BDF8,100:0F2027&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:38BDF8,100:0F2027&height=6&section=header" width="100%"/>
 </div>
 
 ## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nivethith-AK&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" />
-<img width="49%" src="https://streak-stats.demolab.com?user=Nivethith-AK&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nivethith-AK&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Nivethith-AK&theme=tokyonight&hide_border=true&border_radius=12" alt="Streak stats"/>
 
 <br/><br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nivethith-AK&theme=tokyo-night&hide_border=true&radius=12&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&area_color=38BDF8" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nivethith-AK&theme=tokyo-night&hide_border=true&radius=12&area=true" alt="Activity graph"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Nivethith-AK&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" />
+<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nivethith-AK&theme=tokyonight" alt="Profile summary"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:38BDF8,100:0F2027&height=3&section=header" width="100%"/>
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nivethith-AK&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" alt="Trophies"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:38BDF8,100:0F2027&height=6&section=header" width="100%"/>
 
 </div>
 
@@ -156,6 +167,7 @@ const nivethith = {
 
 <details open>
 <summary><b>Click to collapse</b></summary>
+
 <br/>
 
 | | |
@@ -169,24 +181,28 @@ const nivethith = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:38BDF8,100:0F2027&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:38BDF8,100:0F2027&height=6&section=header" width="100%"/>
+
+<img width="70%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote"/>
+
+</div>
 
 ## 🤝 &nbsp;Let's Build Something
 
+<div align="center">
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=560&height=40&lines=Open+to+internships+%26+collaborations;Always+shipping%2C+always+learning;Let's+turn+an+idea+into+a+product" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=580&height=45&lines=Open+to+internships+%26+collaborations;Always+shipping%2C+always+learning;Let's+turn+an+idea+into+a+product" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/nivethith-ak/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:niknive7@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://nivethith.vercel.app"><img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/nivethith-ak/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:niknive7@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://nivethith.vercel.app"><img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 
 <br/><br/>
 
-> *"Design thinking gets you the right problem. Engineering gets you the right solution."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:203A43,100:0F2027&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:203A43,100:0F2027&height=150&section=footer" width="100%"/>
 
 </div>
